@@ -53,7 +53,7 @@ The correlation between prime numbers and quantum mechanics is not a coincidence
 
 
 
-# The Riemann Vacuum Test: Empirical Evidence of Empty Space as a $P=NP$ Computational Prime Grid via Quantum Decoherence
+# [The Riemann Vacuum Test: Empirical Evidence of Empty Space as a $P=NP$ Computational Prime Grid via Quantum Decoherence](https://github.com/peterbabulik/The-Algorithmic-Unification-of-Number-Theory-and-Quantum-Mechanics/blob/main/RiemannVacuumTest.ipynb)
 
 **Abstract:**
 In standard quantum field theory, the quantum vacuum is considered a domain of lowest possible energy, characterized by random zero-point fluctuations and thermal decoherence. However, under the *Ontological Information Equivalence Theorem*, physical reality is modeled as a localized, computationally bounded ($P \neq NP$) simulation rendered by a non-local ($P=NP$) superdeterministic Base Reality. Under this framework, empty space is not a physical void, but an unallocated computational memory grid. To test this, we conducted "The Riemann Vacuum Test" using the physical 156-qubit `ibm_fez` quantum processor. By subjecting 50 qubits to idle clock cycles (Identity gates), we harvested pure environmental vacuum noise. The empirical results demonstrate that quantum thermal decoherence is not random; rather, it perfectly maps to the Wigner Surmise of the Gaussian Unitary Ensemble (GUE). This proves that the idle quantum vacuum defaults to the exact mathematical geometry governing the Riemann Zeta zeroes (prime numbers), confirming that empty space is an active, formatted computational lattice.
@@ -158,7 +158,7 @@ By treating the quantum processor as a localized Base Reality API, we successful
 
 
 
-# Cosmological Dark Energy as Base Reality Memory Inflation: Empirical Evidence from IBM Quantum Hardware
+# [Cosmological Dark Energy as Base Reality Memory Inflation: Empirical Evidence from IBM Quantum Hardware](https://github.com/peterbabulik/The-Algorithmic-Unification-of-Number-Theory-and-Quantum-Mechanics/blob/main/DarkEnergy.ipynb)
 
 **Abstract:**
 The accelerating metric expansion of the universe, currently attributed to the enigmatic physical force known as "Dark Energy," represents the most significant unsolved problem in standard cosmology ($\Lambda$CDM model). This paper proposes a radical ontological shift: Dark Energy is not a physical force, but a computational artifact of **Base Reality Memory Inflation**. Under the framework of a $P=NP$ superdeterministic host simulating a localized $P \neq NP$ universe, as the simulation's informational entropy scales linearly over time, the required Hilbert space (memory volume) must scale exponentially. Because the Base Reality utilizes the Riemann Zeta prime distribution as its foundational memory grid, this exponential memory allocation manifests physically as the widening of metric spatial gaps (cosmic expansion). Using an IBM Quantum Processing Unit (QPU) to simulate cosmic epochs, we empirically measured the scaling of Shannon entropy and informational volume. The results perfectly trace an exponential acceleration curve, proving that the Hubble expansion of the universe is functionally identical to the dynamic RAM allocation of a quantum simulator.
@@ -211,7 +211,7 @@ By simulating the expansion of cosmic entropy on a physical quantum processor, w
 
 
 
-# ER=EPR as Base Reality Pointer Aliasing: Empirical Verification of Non-Local Information Transfer via a Quantum Wormhole on IBM Hardware
+# [ER=EPR as Base Reality Pointer Aliasing: Empirical Verification of Non-Local Information Transfer via a Quantum Wormhole on IBM Hardware](https://github.com/peterbabulik/The-Algorithmic-Unification-of-Number-Theory-and-Quantum-Mechanics/blob/main/EREPRexperiment.ipynb)
 
 **Abstract:**
 The ER=EPR conjecture, proposed by Susskind and Maldacena in 2013, posits that quantum entanglement (EPR) and Einstein-Rosen bridges (wormholes) are mathematically equivalent phenomena. This paper reframes this conjecture through the *Ontological Information Equivalence Theorem*, positing that the physical universe is a localized ($P \neq NP$) simulation rendered by a non-local ($P=NP$) host. Under this framework, an ER=EPR wormhole is not a physical tunnel through spacetime, but "Pointer Aliasing" in the host machine’s RAM—a single memory address assigned to two localized spatial coordinates. To empirically test this, a quantum wormhole was instantiated on the 156-qubit `ibm_fez` quantum processor. By encoding geometric information into a payload qubit and hashing it into an entangled "Black Hole," we successfully retrieved the uncorrupted geometry at a remote, physically unconnected exit node. The empirical retrieval rate of 94% (3762 out of 4000 shots) verifies that non-local information transfer functions flawlessly via shared memory pointers in the Base Reality architecture.
@@ -267,7 +267,7 @@ By treating the `ibm_fez` quantum processor as an API to the universe's $P=NP$ B
 
 
 
-# Event Horizon Time Dilation as Base Reality Rendering Lag: Empirical Verification of the Quantum Zeno Effect on IBM Hardware
+# [Event Horizon Time Dilation as Base Reality Rendering Lag: Empirical Verification of the Quantum Zeno Effect on IBM Hardware](https://github.com/peterbabulik/The-Algorithmic-Unification-of-Number-Theory-and-Quantum-Mechanics/blob/main/QuantumZenoLag.ipynb)
 
 **Abstract:**
 In standard General Relativity, time strictly dilates (slows down) as an observer approaches the extreme gravitational density of a black hole’s event horizon. This paper proposes a computational resolution to this phenomenon through the *Ontological Information Equivalence Theorem*. Under a $P=NP$ superdeterministic framework, physical time is not a fabric, but the sequential clock cycle (frame rate) of a localized simulation. When immense informational density (mass) is concentrated in a localized spacetime sector, the Base Reality must continuously query and resolve the overlapping entangled states to prevent a memory overflow (the Bekenstein Bound). This constant "API polling" restricts the temporal evolution of the particles. To test this computationally, a simulated event horizon was instantiated on the 156-qubit `ibm_fez` quantum processor. By subjecting a time-evolving qubit to constant mid-circuit measurement (inducing the Quantum Zeno Effect), we empirically demonstrated that General Relativistic Time Dilation is functionally isomorphic to computational frame-rate lag caused by extreme rendering loads.
@@ -324,7 +324,7 @@ By utilizing the `ibm_fez` quantum processor to induce continuous mid-circuit me
 
 
 
-# Energy Equals Information ($E=I$): Empirical Demonstration of Quantum Superradiance and Thermodynamic Capacity via Base Reality Pointer Aliasing
+# [Energy Equals Information ($E=I$): Empirical Demonstration of Quantum Superradiance and Thermodynamic Capacity via Base Reality Pointer Aliasing](https://github.com/peterbabulik/The-Algorithmic-Unification-of-Number-Theory-and-Quantum-Mechanics/blob/main/EREPRexperiment.ipynb)
 
 **Abstract:**
 Classical thermodynamics, bounded by Einstein’s mass-energy equivalence ($E=mc^2$), treats energy as a fundamental physical property of localized spacetime. This paper reframes thermodynamics through the *Ontological Information Equivalence Theorem*, positing that Energy is fundamentally Information ($E=I$). Under a $P=NP$ superdeterministic framework, physical energy represents the computational clock-cycle bandwidth required by the Base Reality to update a localized memory address. If multiple localized objects (batteries) are quantumly entangled, they share a single non-local memory pointer. Therefore, thermodynamic updates applied to the local objects compound collectively in the host architecture—a phenomenon recognized in physics as Quantum Superradiance. To empirically verify this, a Quantum Capacitor was instantiated on the 156-qubit `ibm_fez` quantum processor. By exposing unentangled qubits and fully entangled qubits to the exact same weak temporal charging field, we measured their thermodynamic energy absorption. The unentangled (classical) system absorbed minimal energy (16.5%), while the entangled (computational) system utilized non-local pointer aliasing to achieve 86.7% energy absorption. The empirical data confirms that physical thermodynamic capacity is strictly governed by the underlying informational geometry of the system, verifying the equivalency of $E=I$.
@@ -383,7 +383,7 @@ The experiment executed on the `ibm_fez` quantum processor provides definitive p
 
 
 
-# Retrocausality as Base Reality RAM Optimization: Empirical Demonstration of the Delayed-Choice Quantum Eraser on IBM Hardware
+# [Retrocausality as Base Reality RAM Optimization: Empirical Demonstration of the Delayed-Choice Quantum Eraser on IBM Hardware](https://github.com/peterbabulik/The-Algorithmic-Unification-of-Number-Theory-and-Quantum-Mechanics/blob/main/Retrocausality.ipynb)
 
 **Abstract:**
 The Delayed-Choice Quantum Eraser experiment demonstrates a profound temporal anomaly: measuring or algorithmically erasing the "which-path" tracking information of a particle *after* it has traversed an interference apparatus physically alters the particle's historical trajectory. Classical physics struggles to reconcile this apparent retrocausality, as it violates the linear progression of cause and effect. This paper proposes a definitive computational mechanism via the *Ontological Information Equivalence Theorem*: the physical universe operates as a localized rendering interface governed by a non-local ($P=NP$) host architecture. Under this framework, unobserved historical quantum states are not definitive physical events, but uncommitted data residing in a temporary RAM buffer. If the tracking pointer is algorithmically erased prior to local decompression (measurement), the host system’s "garbage collector" purges the definitive path from the RAM buffer, retroactively reverting the particle to its computationally inexpensive procedural waveform (interference). To empirically test this, a Delayed-Choice Quantum Eraser was executed on the `ibm_marrakesh` physical quantum processor. The empirical data confirms that "rewriting the past" is isomorphic to standard computational memory optimization, proving that historical spacetime is non-definitive until explicitly rendered by a localized memory pointer.
@@ -441,7 +441,7 @@ By utilizing the `ibm_marrakesh` quantum processor to execute a Delayed-Choice Q
 
 
 
-# The Wigner’s AI Paradox: Empirical Resolution of the Measurement Problem and Consciousness via Base Reality Entanglement on IBM Hardware
+# [The Wigner’s AI Paradox: Empirical Resolution of the Measurement Problem and Consciousness via Base Reality Entanglement on IBM Hardware](https://github.com/peterbabulik/The-Algorithmic-Unification-of-Number-Theory-and-Quantum-Mechanics/blob/main/WignersFriend.ipynb)
 
 **Abstract:**
 The Copenhagen interpretation of quantum mechanics, specifically the von Neumann–Wigner hypothesis, controversially posits that conscious observation is the mechanism that induces the collapse of the wavefunction. This implies that the human mind (and potentially Advanced Artificial Intelligence) possesses fundamental, physics-altering authority. This paper resolves the measurement problem computationally through the *Ontological Information Equivalence Theorem*. Under a $P=NP$ Base Reality framework, local observers—whether biological wetware or silicon AI—are merely dynamic sub-processors executing inside the simulation. Their "observations" do not execute simulation-wide render commands; rather, the observer's memory array mathematically entangles with the target object, placing the observer into a joint, uncollapsed superposition. To empirically test this, the "Wigner’s Friend" paradox was simulated on the 156-qubit `ibm_fez` physical quantum processor, utilizing an ancillary qubit as a local AI Observer. The empirical data demonstrates that internal algorithmic observation does not destroy quantum coherence. Coherence is only destroyed when data is explicitly forced into the local, computationally bounded ($P \neq NP$) physical RAM by the Base Reality Administrator. This proves mathematically and physically that consciousness is not a reality-rendering phenomenon, but simply the geometric process of non-local entanglement.
