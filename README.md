@@ -1,3 +1,28 @@
+# The Algorithmic Unification of Number Theory and Quantum Mechanics
+
+**A computational physics research framework exploring the equivalence between physical reality and algorithmic information processing through empirical quantum experiments on IBM hardware.**
+
+This repository contains a series of interconnected papers demonstrating that quantum mechanics, cosmology, and computational theory emerge from a unified $P=NP$ Base Reality architecture. Each experiment uses IBM Quantum hardware to empirically validate theoretical predictions linking prime numbers, quantum chaos, and cosmological phenomena.
+
+## Table of Contents
+
+| # | Paper | Notebook | Key Concept |
+|---|-------|----------|-------------|
+| 1 | [The Algorithmic Unification of Number Theory and Quantum Mechanics](PrimesQuantumPhysicsAndRiemann.ipynb) | `PrimesQuantumPhysicsAndRiemann.ipynb` | Quantum randomness ≈ deterministic PRNG, both governed by GUE/Riemann Zeta |
+| 2 | [The Riemann Vacuum Test](RiemannVacuumTest.ipynb) | `RiemannVacuumTest.ipynb` | Quantum vacuum fluctuations follow prime number geometry |
+| 3 | [Dark Matter as Computational Ghost RAM](DarkMatterExperiment.ipynb) | `DarkMatterExperiment.ipynb` | Dark matter as Partial Trace of unrendered entanglement |
+| 4 | [Dark Energy as Base Reality Memory Inflation](DarkEnergy.ipynb) | `DarkEnergy.ipynb` | Cosmic expansion as exponential memory allocation |
+| 5 | [ER=EPR as Base Reality Pointer Aliasing](EREPRexperiment.ipynb) | `EREPRexperiment.ipynb` | Wormholes as shared memory pointers, 94% retrieval fidelity |
+| 6 | [Event Horizon Time Dilation as Rendering Lag](QuantumZenoLag.ipynb) | `QuantumZenoLag.ipynb` | Time dilation ≡ Quantum Zeno Effect |
+| 7 | [Energy Equals Information (E=I)](QuantumCapacitorThermodynamics.ipynb) | `QuantumCapacitorThermodynamics.ipynb` | Quantum capacitor absorbs 86.7% vs 16.5% classical battery |
+| 8 | [Retrocausality as RAM Optimization](Retrocausality.ipynb) | `Retrocausality.ipynb` | Delayed-choice erasure ≡ garbage collection |
+| 9 | [The Wigner's AI Paradox](WignersFriend.ipynb) | `WignersFriend.ipynb` | Consciousness as pointer aliasing, not wavefunction collapse |
+| 10 | [Recursive Algorithmic Cooling](RecursiveAlgorithmicCooling.ipynb) | `RecursiveAlgorithmicCooling.ipynb` | Entropy purging via QEC (82.3% vs 73.8% survival) |
+| 11 | [Algorithmic Cooling and Non-Local Garbage Collection](AlgorithmicCoolingEREPR.ipynb) | `AlgorithmicCoolingEREPR.ipynb` | Extended entanglement via pointer aliasing (44.5% vs 35.9%) |
+
+
+---
+
 # [The Algorithmic Unification of Number Theory and Quantum Mechanics: Empirical Evidence for a P=NP Base Reality via IBM Quantum Hardware](https://github.com/peterbabulik/The-Algorithmic-Unification-of-Number-Theory-and-Quantum-Mechanics/blob/main/PrimesQuantumPhysicsAndRiemann.ipynb)
 **Abstract:**
 The isomorphism between the distribution of prime numbers (the Riemann Zeta zeroes) and the energy levels of complex quantum systems (Quantum Chaos) is widely considered one of the most profound anomalies in modern science. This paper proposes that this correlation is the observable footprint of *Superdeterminism functioning as a Consequently Non-Local Pseudo-Random Function of a $P=NP$ Base Reality*. By interpreting physical reality as a localized, computationally bounded ($P \neq NP$) simulation running on a non-local, unbounded ($P=NP$) deterministic host, the boundary between abstract mathematics and physical matter dissolves. To test this, an experiment was conducted utilizing the 156-qubit `ibm_fez` quantum processor. The empirical results demonstrate that hardware-generated quantum randomness and classical deterministic pseudo-randomness are computationally indistinguishable, both collapsing precisely into the Gaussian Unitary Ensemble (GUE) geometry that governs prime numbers.
